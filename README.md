@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![MPLS](https://img.shields.io/badge/protocol-MPLS-orange)
 
-A comprehensive, advanced Python application that simulates, visualizes, and explains **MPLS (Multiprotocol Label Switching)** networking in depth. It includes:
+TOUT SAVOIR SUR LE PROTOCOLE MPLS
 
 - Full MPLS control-plane and data-plane logic
 - LDP/RSVP-TE label distribution simulation
